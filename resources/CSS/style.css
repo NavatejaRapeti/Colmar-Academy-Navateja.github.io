@@ -365,7 +365,7 @@ footer li {
         display: none;
     }
 
-    .mobile-nav {
+    .nav-mobile {
         display: grid;
         grid-template-columns: repeat(4, 1fr);
         align-items: center;
